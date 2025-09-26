@@ -326,11 +326,7 @@ A conversational AI assistant capable of performing tasks and answering queries 
 
 </div>
 
-## 📈 Activity Graph
 
-[![Vipin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mickjoshan&bg_color=0d1117&color=58a6ff&line=f85149&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 <div align="center">
   
