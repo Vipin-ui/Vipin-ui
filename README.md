@@ -1,12 +1,18 @@
-# Hi 👋, I'm Vipin Pandey
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Vipin%20Pandey&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🎓+B.Tech+Student;💻+Full+Stack+Developer;🚀+Tech+Enthusiast;Always+learning+new+things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🎓+B.Tech+Student;💻+Full+Stack+Developer;🚀+Tech+Enthusiast;Always+learning+new+things;Building+the+future+with+code!)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 - 🔭 **Currently Working At:** ComplyRelax - Building compliance solutions
 - 🎓 **Education:** B.Tech CSE at SKIT, Jaipur (CGPA: 8.7)
@@ -15,45 +21,205 @@
 - 📫 **Email:** vipinpandey3510@gmail.com
 - 🏠 **Location:** Jaipur, Rajasthan, India
 
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🌐 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-pandey-aa060b1a9/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/pandeyvipin/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipinpandey3510@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/vipin-pandey-aa060b1a9/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/pandeyvipin/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vipinpandey3510@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ## 💻 Tech Stack
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
 
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="8" align="center">🎨 Frontend Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+            <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
+          </a>
+          <br>HTML
+        </td>
+        <td align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+            <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
+          </a>
+          <br>CSS
+        </td>
+        <td align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center">
+          <a href="https://www.typescriptlang.org/">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+          </a>
+          <br>TypeScript
+        </td>
+        <td align="center">
+          <a href="https://reactjs.org/">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+          </a>
+          <br>React
+        </td>
+        <td align="center">
+          <a href="https://tailwindcss.com/">
+            <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
+          </a>
+          <br>Tailwind CSS
+        </td>
+        <td align="center">
+          <a href="https://getbootstrap.com/">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
+          </a>
+          <br>Bootstrap
+        </td>
+        <td align="center">
+          <a href="https://www.figma.com/">
+            <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
+          </a>
+          <br>Figma
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="9" align="center">⚙️ Backend & Database</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://nodejs.org/">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+          </a>
+          <br>Node.js
+        </td>
+        <td align="center">
+          <a href="https://expressjs.com/">
+            <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js" />
+          </a>
+          <br>Express.js
+        </td>
+        <td align="center">
+          <a href="https://www.mongodb.com/">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+          </a>
+          <br>MongoDB
+        </td>
+        <td align="center">
+          <a href="https://jwt.io/">
+            <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" alt="JWT" />
+          </a>
+          <br>JWT
+        </td>
+        <td align="center">
+          <a href="https://git-scm.com/">
+            <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+          </a>
+          <br>Git
+        </td>
+        <td align="center">
+          <a href="https://github.com/">
+            <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+          </a>
+          <br>GitHub
+        </td>
+        <td align="center">
+          <a href="https://www.npmjs.com/">
+            <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="NPM" />
+          </a>
+          <br>NPM
+        </td>
+        <td align="center">
+          <a href="https://code.visualstudio.com/">
+            <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+          </a>
+          <br>VS Code
+        </td>
+        <td align="center">
+          <a href="https://www.postman.com/">
+            <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
+          </a>
+          <br>Postman
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="6" align="center">💻 Programming Languages</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://isocpp.org/">
+            <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
+          </a>
+          <br>C++
+        </td>
+        <td align="center">
+          <a href="https://www.java.com/">
+            <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
+          </a>
+          <br>Java
+        </td>
+        <td align="center">
+          <a href="https://www.python.org/">
+            <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+          </a>
+          <br>Python
+        </td>
+        <td align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center">
+          <a href="https://www.typescriptlang.org/">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+          </a>
+          <br>TypeScript
+        </td>
+        <td align="center">
+          <a href="https://docs.microsoft.com/en-us/bash/">
+            <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Bash" />
+          </a>
+          <br>Bash
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 💼 Work Experience
 
@@ -139,7 +305,9 @@ A conversational AI assistant capable of performing tasks and answering queries 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickjoshan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mickjoshan&theme=radical&hide_border=false)
@@ -151,6 +319,8 @@ A conversational AI assistant capable of performing tasks and answering queries 
 ## 🎯 LeetCode Stats
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pandeyvipin?theme=dark&font=Nunito&ext=heatmap)
 
@@ -160,28 +330,14 @@ A conversational AI assistant capable of performing tasks and answering queries 
 
 [![Vipin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mickjoshan&bg_color=0d1117&color=58a6ff&line=f85149&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mickjoshan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-## 💡 Random Developer Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
 ---
 
 <div align="center">
   
-### Thanks for visiting! Let's connect and build something amazing together! 🚀
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mickjoshan&color=blueviolet&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
