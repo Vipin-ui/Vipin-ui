@@ -302,19 +302,7 @@ A conversational AI assistant capable of performing tasks and answering queries 
 - 🔒 Cybersecurity Fundamentals
 - 🤖 Machine Learning Basics
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickjoshan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mickjoshan&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickjoshan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 
 ## 🎯 LeetCode Stats
 
