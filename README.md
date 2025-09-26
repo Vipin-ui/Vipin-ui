@@ -332,7 +332,7 @@ A conversational AI assistant capable of performing tasks and answering queries 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mickjoshan&color=blueviolet&style=flat-square&label=Profile+Views)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
